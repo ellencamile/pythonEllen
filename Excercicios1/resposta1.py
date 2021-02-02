@@ -5,4 +5,4 @@ if valor %2 ==0:
 else:
     print("È impar")
     '''
-    print("é par" if valor % 2 ==0 else "È impar")
+print("é par" if valor % 2 ==0 else "È impar")
