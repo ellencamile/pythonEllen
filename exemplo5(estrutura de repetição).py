@@ -1,7 +1,7 @@
 '''
 texto = "faz por ti e eu te ajudarei"
 
-print("tu" in texto)
+print("tu" in texto) ...pocurar alguma palavra no texto...
 '''
 
 for cont in range(1,11):
