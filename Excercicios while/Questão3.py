@@ -12,5 +12,5 @@ while cont <= 10:
         soma += valor
     cont += 1
 
-print(f"A soma dos valores ositivos é {soma}")
+print(f"A soma dos valores positivos é {soma}")
 print(f"A soma dos valores negativos é {contN}")
