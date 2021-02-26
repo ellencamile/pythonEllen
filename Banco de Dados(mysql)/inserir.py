@@ -23,4 +23,5 @@ consulta.execute(comando,valores)
 conexao.commit() #gravar os dados no banco
 
 print(consulta.rowcout,"linha(s) inserida com sucesso")
+
 conexao.close()

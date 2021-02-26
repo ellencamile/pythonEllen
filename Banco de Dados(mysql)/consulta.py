@@ -23,3 +23,5 @@ resultado = consulta.fetchall()
 
 for itens in resultado:
     print(f"Olá {itens[1]} você mora no bairro {itens[4]}")
+
+conexao.close() #encerrando a conexão
